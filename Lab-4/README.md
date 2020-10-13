@@ -31,4 +31,4 @@ Upon completing the lab, you will know how to:
 
 ### Step 1. Please click on the link to download the instructions to your machine
 
-[Instructions](https://github.com/bleonardb3/Think2020/raw/master/Lab-4/Watson%20OpenScale%20v4.3.pdf)
+[Instructions](https://github.com/bleonardb3/TR_POT_10-15-2020/raw/main/Lab-4/Watson%20OpenScale%20v4.7.pdf)
